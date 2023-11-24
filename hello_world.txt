@@ -1,2 +1,0 @@
-Min första GitHub repo.
-Hallå Odin!
